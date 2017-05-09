@@ -38,3 +38,7 @@ Source data: [Open smart meter data from data.gov.uk website](https://data.gov.u
 ## Contributors
 
 [Karen Gask](https://github.com/gaskyk) and [Alessandra Sozzi](https://github.com/AlessandraSozzi), both working for the [Office for National Statistics Big Data project](https://www.ons.gov.uk/aboutus/whatwedo/programmesandprojects/theonsbigdataproject)
+
+## Licence
+
+Released under the [GNU General Public License, version 3](https://github.com/ONSBigData/Who-you-work-with/blob/master/LICENSE).
